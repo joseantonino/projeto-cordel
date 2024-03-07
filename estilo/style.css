@@ -96,7 +96,9 @@ section#img01  {
     background-image: url(../imagens/background001.jpg);
     background-position: right center;
     background-size: cover;
+    background-position: center; 
 }
+
 
 section#img02  {
     background-image: url(../imagens/background002.jpg); 
